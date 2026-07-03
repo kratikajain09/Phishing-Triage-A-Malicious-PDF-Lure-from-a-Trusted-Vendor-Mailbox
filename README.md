@@ -1,8 +1,5 @@
 # Phishing-Triage-A-Malicious-PDF-Lure-from-a-Trusted-Vendor-Mailbox
-Phishing Triage: A Malicious PDF Lure from a Trusted Vendor Mailbox
 
-# Phishing Triage: A Malicious PDF Lure from a Trusted Vendor Mailbox
- 
 > **A SOC case study.** This writeup documents a phishing investigation using a **sanitized, fictionalized** version of a real incident. All company names, users, domains, IPs, and identifiers have been replaced with documentation-safe placeholders (`Contoso` = the defending org, `Fabrikam` = the vendor, `.example` domains). No proprietary data from any environment is included. Detection logic and methodology are industry-standard.
  
 ---
