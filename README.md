@@ -16,7 +16,7 @@ The email turned out to be phishing sent from a **compromised legitimate vendor 
  
 ## Investigation at a glance
  
-![Investigation flow](assets/investigation-flow.svg)
+![Investigation flow](phishing_investigation_flow.svg)
  
 The flow above traces the incident end to end: a reported email, triage that surfaced the "clean auth from a trusted vendor" contradiction, blast-radius and account review to rule out impact, external confirmation of vendor mailbox compromise, containment, and a monitored unblock once the vendor remediated. Each phase is detailed below.
  
